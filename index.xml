@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VMSI</title>
+    <link>http://initiativen-muenchen.de/</link>
+    <description>Recent content on VMSI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="http://initiativen-muenchen.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Engagiert im Sommersemester 2020</title>
+      <link>http://initiativen-muenchen.de/engagiert-trotz-corona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://initiativen-muenchen.de/engagiert-trotz-corona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://initiativen-muenchen.de/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://initiativen-muenchen.de/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. Was ist der VMSI? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://initiativen-muenchen.de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://initiativen-muenchen.de/contact/</guid>
+      <description>Der Verbund Münchner Studenten Initiativen (VMSI) entstand Anfang 2017 aus einem Stammtisch mehrerer Studenteninitiativen bekannt als Münchner Runde. Mit dem Gedanken eine Plattform für Austausch, Kooperation und gemeinsamer Interessensvertretung zu etablieren, schlossen sich die Initiativen 180 Degrees Consulting, Academy Consult, AIESEC, Enactus, MTP, STARTmunich, und TEG zusammen und gründeten den VMSI. Seitdem haben sich viele weitere Münchner Initiativen dem VMSI angeschlossen.
+Wir sind für dich da und freuen uns auf deine Fragen Du willst mehr lernen?</description>
+    </item>
+    
+  </channel>
+</rss>
